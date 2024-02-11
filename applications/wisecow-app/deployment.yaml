@@ -18,7 +18,7 @@ spec:
         app: wisecow-app
     spec:
       containers:
-        - image: csborle/wisecow:latest
+        - image: csborle/wisecow:lates
           name: frontend
           ports:
             - containerPort: 4499
